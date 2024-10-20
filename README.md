@@ -1,5 +1,7 @@
 # Docker Compose Setup for Project
 
+## Medium Article
+Explanation of this project can be accessed: [https://istywhyerlina.medium.com/etl-orchestration-be1b4dd91159] https://istywhyerlina.medium.com/etl-orchestration-be1b4dd91159
 Before you can run this project using Docker Compose, make sure you have created a `.env` file with the necessary environment variables. 
 
 Here are the steps to set up the project:
@@ -21,6 +23,16 @@ DWH_POSTGRES_HOST=localhost
 DWH_POSTGRES_USER=[YOUR USERNAME]
 DWH_POSTGRES_PASSWORD=[YOUR PASSWORD]
 DWH_POSTGRES_PORT=[YOUR PORT]
+
+
+# DIRECTORY
+DIR_ROOT_PROJECT=
+DIR_TEMP_LOG=
+DIR_TEMP_DATA=                 #  <project_dir>/pipeline/temp
+DIR_EXTRACT_QUERY=                    #  
+DIR_LOAD_QUERY=                        #  <project_dir>/pipeline/src_query/load
+DIR_TRANSFORM_QUERY=                   #  <project_dir>/pipeline/src_query/transform
+
 
 ```
 
