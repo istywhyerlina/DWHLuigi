@@ -1,7 +1,9 @@
 # Docker Compose Setup for Project
 
 ## Medium Article
-Explanation of this project can be accessed: [https://istywhyerlina.medium.com/etl-orchestration-be1b4dd91159] https://istywhyerlina.medium.com/etl-orchestration-be1b4dd91159
+Explanation of this project can be accessed: [https://istywhyerlina.medium.com/etl-orchestration-be1b4dd91159] 
+
+##Preparation
 Before you can run this project using Docker Compose, make sure you have created a `.env` file with the necessary environment variables. 
 
 Here are the steps to set up the project:
