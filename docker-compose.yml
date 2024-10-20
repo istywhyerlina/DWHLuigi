@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+  sources:
+    image: postgres:latest
+    container_name: olist-sources
+    restart: always
+    environment:
+      - POSTGRES_DB=${SRC_POSTGRES_DB}
+      - POSTGRES_USER=${SRC_POSTGRES_USER}
+      - POSTGRES_PASSWORD=${SRC_POSTGRES_PASSWORD}
+    ports:
+      - ${SRC_POSTGRES_PORT}:5432
+    volumes:
+      - ./helper/source_init/:/docker-entrypoint-initdb.d
+      - source-volume:/var/lib/postgresql/data
+
+  dwh:
+    image: postgres:latest
+    container_name: olist-dwh
+    restart: always
+    environment:
+      - POSTGRES_DB=${DWH_POSTGRES_DB}
+      - POSTGRES_USER=${DWH_POSTGRES_USER}
+      - POSTGRES_PASSWORD=${DWH_POSTGRES_PASSWORD}
+    ports:
+      - ${DWH_POSTGRES_PORT}:5432
+    volumes:
+      - dwh_volume:/var/lib/postgresql/data
+      - ./helper/dwh_init/:/docker-entrypoint-initdb.d
+
+
+
+volumes:
+  source-volume:
+  dwh_volume:

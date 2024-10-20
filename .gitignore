@@ -1,0 +1,8 @@
+venv/
+creds/
+.env
+**/__pycache__/
+**/.ipynb_checkpoints/
+extract_engine
+load_engine
+transform_engine

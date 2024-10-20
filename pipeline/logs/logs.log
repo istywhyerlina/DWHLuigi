@@ -1,0 +1,1025 @@
+2024-10-19 17:23:27,246 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-19 17:23:27,678 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-19 17:23:27,784 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-19 17:23:28,576 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-19 17:23:29,081 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-19 17:23:29,552 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-19 17:23:30,228 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-19 17:23:30,250 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-19 17:23:30,574 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-19 17:23:30,588 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-19 17:23:30,589 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-19 17:23:30,590 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-19 17:23:30,591 - INFO - [pid 337477] Worker Worker(salt=4942261824, workers=1, host=Erlina, username=istywhyerlina, pid=337477) done      Extract()
+2024-10-19 17:23:30,592 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-19 17:23:30,593 - INFO - Informed scheduler that task   Extract__99914b932b   has status   DONE
+2024-10-19 17:23:30,593 - DEBUG - Asking scheduler for work...
+2024-10-19 17:23:30,593 - DEBUG - Done
+2024-10-19 17:23:30,593 - DEBUG - There are no more tasks to run at this time
+2024-10-19 17:23:30,594 - INFO - Worker Worker(salt=4942261824, workers=1, host=Erlina, username=istywhyerlina, pid=337477) was stopped. Shutting down Keep-Alive thread
+2024-10-19 17:23:30,595 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 1 tasks of which:
+* 1 ran successfully:
+    - 1 Extract()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2024-10-19 17:31:17,569 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-19 17:31:18,013 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-19 17:31:18,130 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-19 17:31:18,936 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-19 17:31:19,408 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-19 17:31:19,912 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-19 17:31:20,643 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-19 17:31:20,674 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-19 17:31:21,005 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-19 17:31:21,023 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-19 17:31:21,023 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-19 17:31:21,025 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-19 17:31:39,981 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-19 17:31:40,404 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-19 17:31:40,538 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-19 17:31:41,311 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-19 17:31:41,778 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-19 17:31:42,270 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-19 17:31:42,903 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-19 17:31:42,923 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-19 17:31:43,229 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-19 17:31:43,243 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-19 17:31:43,243 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-19 17:31:43,245 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-19 17:31:43,246 - INFO - [pid 343917] Worker Worker(salt=535315961, workers=1, host=Erlina, username=istywhyerlina, pid=343917) done      Extract()
+2024-10-19 17:31:43,247 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-19 17:31:43,248 - INFO - Informed scheduler that task   Extract__99914b932b   has status   DONE
+2024-10-19 17:31:43,248 - DEBUG - Asking scheduler for work...
+2024-10-19 17:31:43,248 - DEBUG - Done
+2024-10-19 17:31:43,248 - DEBUG - There are no more tasks to run at this time
+2024-10-19 17:31:43,248 - INFO - Worker Worker(salt=535315961, workers=1, host=Erlina, username=istywhyerlina, pid=343917) was stopped. Shutting down Keep-Alive thread
+2024-10-19 17:31:43,249 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 1 tasks of which:
+* 1 ran successfully:
+    - 1 Extract()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2024-10-19 18:23:51,920 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-19 18:23:52,427 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-19 18:23:52,549 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-19 18:23:53,443 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-19 18:23:53,956 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-19 18:23:54,492 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-19 18:23:55,261 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-19 18:23:55,280 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-19 18:23:55,597 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-19 18:23:55,614 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-19 18:23:55,614 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-19 18:23:55,617 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-19 18:25:13,783 - INFO - Read Load Query - SUCCESS
+2024-10-19 18:27:29,511 - INFO - Read Load Query - SUCCESS
+2024-10-19 18:31:21,217 - INFO - Read Load Query - SUCCESS
+2024-10-19 18:31:21,217 - ERROR - Read Extracted Data  - FAILED
+2024-10-19 18:32:05,897 - INFO - Read Load Query - SUCCESS
+2024-10-19 18:32:07,011 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 18:32:07,076 - INFO - Connect to DWH - SUCCESS
+2024-10-19 18:35:30,964 - INFO - Read Load Query - SUCCESS
+2024-10-19 18:35:32,071 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 18:35:32,121 - INFO - Connect to DWH - SUCCESS
+2024-10-19 18:35:32,264 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 18:39:49,496 - INFO - Read Load Query - SUCCESS
+2024-10-19 18:39:50,894 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 18:39:50,946 - INFO - Connect to DWH - SUCCESS
+2024-10-19 18:39:51,132 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 18:45:10,596 - INFO - Read Load Query - SUCCESS
+2024-10-19 18:45:11,782 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 18:45:11,825 - INFO - Connect to DWH - SUCCESS
+2024-10-19 18:45:11,980 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 18:45:22,400 - INFO - Read Load Query - SUCCESS
+2024-10-19 18:45:23,480 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 18:45:23,525 - INFO - Connect to DWH - SUCCESS
+2024-10-19 18:45:23,682 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 18:45:43,351 - INFO - Read Load Query - SUCCESS
+2024-10-19 18:45:44,476 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 18:45:44,521 - INFO - Connect to DWH - SUCCESS
+2024-10-19 18:45:44,647 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 18:45:56,520 - INFO - Read Load Query - SUCCESS
+2024-10-19 18:45:57,615 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 18:45:57,654 - INFO - Connect to DWH - SUCCESS
+2024-10-19 18:45:57,816 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 18:49:21,514 - INFO - Read Load Query - SUCCESS
+2024-10-19 18:49:22,621 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 18:49:22,667 - INFO - Connect to DWH - SUCCESS
+2024-10-19 18:49:22,873 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 18:49:35,491 - INFO - Read Load Query - SUCCESS
+2024-10-19 18:49:36,555 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 18:49:36,605 - INFO - Connect to DWH - SUCCESS
+2024-10-19 18:49:36,800 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:21:29,402 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:21:30,109 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:21:30,198 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:21:30,266 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:25:44,268 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:25:44,939 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:25:44,971 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:25:45,058 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:26:00,165 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:26:00,730 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:26:00,758 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:26:00,818 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:28:25,230 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:28:25,788 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:28:25,816 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:28:25,885 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:32:55,673 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:32:56,236 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:32:56,264 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:32:56,400 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:38:08,594 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:38:09,176 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:38:09,215 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:38:09,314 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:38:09,545 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-19 20:38:31,446 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-19 20:38:31,699 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-19 20:38:31,753 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-19 20:38:32,173 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-19 20:38:32,400 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-19 20:38:32,659 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-19 20:38:33,004 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-19 20:38:33,017 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-19 20:38:33,173 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-19 20:38:33,181 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-19 20:38:33,181 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-19 20:38:33,187 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-19 20:41:40,435 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:41:41,081 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:41:41,118 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:41:41,203 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:41:42,412 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-19 20:43:00,276 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:43:00,884 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:43:00,920 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:43:01,028 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:44:02,669 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:44:03,241 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:44:03,276 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:44:03,361 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:44:04,513 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 20:45:02,266 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:45:02,831 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:45:02,867 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:45:02,961 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:45:57,364 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:45:57,922 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:45:57,958 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:45:58,038 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:45:59,253 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 20:46:05,974 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:46:06,579 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:46:06,612 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:46:06,722 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:49:57,609 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:49:58,175 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:49:58,214 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:49:58,309 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:49:59,547 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-19 20:50:15,031 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:50:15,582 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:50:15,616 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:50:15,712 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:50:42,775 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:50:43,331 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:50:43,365 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:50:43,436 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:50:44,642 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 20:52:01,273 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:52:01,843 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:52:01,879 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:52:01,958 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:52:03,212 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 20:52:29,215 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-19 20:52:29,423 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-19 20:52:29,476 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-19 20:52:29,858 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-19 20:52:30,086 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-19 20:52:30,321 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-19 20:52:30,639 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-19 20:52:30,653 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-19 20:52:30,805 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-19 20:52:30,812 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-19 20:52:30,812 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-19 20:52:30,813 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-19 20:52:33,398 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:52:33,966 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:52:34,003 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:52:34,120 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:54:33,736 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:54:34,376 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:54:34,417 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:54:34,530 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:54:34,571 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 20:55:05,043 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-19 20:55:05,249 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-19 20:55:05,303 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-19 20:55:05,696 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-19 20:55:05,926 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-19 20:55:06,167 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-19 20:55:06,475 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-19 20:55:06,489 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-19 20:55:06,640 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-19 20:55:06,646 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-19 20:55:06,646 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-19 20:55:06,647 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-19 20:55:10,539 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:55:11,082 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:55:11,121 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:55:11,205 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:55:12,528 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 20:55:49,846 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:55:50,402 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:55:50,435 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:55:50,539 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:57:46,125 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:57:46,697 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:57:46,731 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:57:46,837 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:57:46,844 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 20:58:09,966 - INFO - Read Load Query - SUCCESS
+2024-10-19 20:58:10,536 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 20:58:10,571 - INFO - Connect to DWH - SUCCESS
+2024-10-19 20:58:10,657 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 20:58:11,403 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:01:26,454 - INFO - Read Load Query - SUCCESS
+2024-10-19 21:01:27,037 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 21:01:27,074 - INFO - Connect to DWH - SUCCESS
+2024-10-19 21:01:27,209 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 21:01:27,993 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:03:02,132 - INFO - Read Load Query - SUCCESS
+2024-10-19 21:03:02,732 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 21:03:02,772 - INFO - Connect to DWH - SUCCESS
+2024-10-19 21:03:02,857 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 21:03:04,119 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-19 21:04:00,532 - INFO - Read Load Query - SUCCESS
+2024-10-19 21:04:01,089 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 21:04:01,127 - INFO - Connect to DWH - SUCCESS
+2024-10-19 21:04:01,209 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 21:06:10,476 - INFO - Read Load Query - SUCCESS
+2024-10-19 21:06:11,053 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 21:06:11,088 - INFO - Connect to DWH - SUCCESS
+2024-10-19 21:06:11,190 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 21:09:04,342 - INFO - Read Load Query - SUCCESS
+2024-10-19 21:09:04,895 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 21:09:04,931 - INFO - Connect to DWH - SUCCESS
+2024-10-19 21:09:05,000 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 21:09:06,245 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-19 21:11:32,516 - INFO - Read Load Query - SUCCESS
+2024-10-19 21:11:33,090 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 21:11:33,124 - INFO - Connect to DWH - SUCCESS
+2024-10-19 21:11:33,218 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 21:11:33,431 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-19 21:11:34,662 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-19 21:11:34,694 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:11:34,698 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:11:35,475 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-19 21:11:37,911 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 21:11:39,939 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-19 21:11:44,125 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-19 21:11:46,211 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-19 21:21:41,785 - INFO - Read Load Query - SUCCESS
+2024-10-19 21:21:42,398 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 21:21:42,436 - INFO - Connect to DWH - SUCCESS
+2024-10-19 21:21:42,542 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 21:21:42,543 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-19 21:21:42,764 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-19 21:21:43,957 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-19 21:21:43,989 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:21:43,993 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:21:44,740 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-19 21:21:46,921 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 21:21:48,907 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-19 21:21:52,148 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-19 21:21:53,941 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-19 21:21:53,941 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-19 21:21:53,941 - ERROR - LOAD All Tables To DWH-Staging - FAILED
+2024-10-19 21:21:53,943 - ERROR - LOAD All Tables To DWH - FAILED
+2024-10-19 21:23:16,793 - INFO - Read Load Query - SUCCESS
+2024-10-19 21:23:17,367 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 21:23:17,403 - INFO - Connect to DWH - SUCCESS
+2024-10-19 21:23:17,500 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 21:23:17,500 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-19 21:23:17,721 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-19 21:23:19,117 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-19 21:23:19,155 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:23:19,161 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:23:19,975 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-19 21:23:22,246 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 21:23:24,466 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-19 21:23:28,308 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-19 21:23:30,254 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-19 21:23:30,254 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-19 21:23:30,254 - ERROR - LOAD All Tables To DWH-Staging - FAILED
+2024-10-19 21:24:55,177 - INFO - Read Load Query - SUCCESS
+2024-10-19 21:24:55,812 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 21:24:55,855 - INFO - Connect to DWH - SUCCESS
+2024-10-19 21:24:55,968 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 21:24:55,968 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-19 21:24:56,216 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-19 21:24:57,615 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-19 21:24:57,658 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:24:57,663 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:24:58,521 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-19 21:25:00,947 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 21:25:03,137 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-19 21:25:06,665 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-19 21:25:09,016 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-19 21:25:09,017 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-19 21:25:12,011 - ERROR - LOAD All Tables To DWH-Staging - FAILED
+2024-10-19 21:28:48,398 - INFO - Read Load Query - SUCCESS
+2024-10-19 21:28:48,970 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 21:28:49,007 - INFO - Connect to DWH - SUCCESS
+2024-10-19 21:28:49,104 - INFO - Truncate Bookings Schema in DWH - SUCCESS
+2024-10-19 21:28:49,104 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-19 21:28:49,330 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-19 21:28:50,516 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-19 21:28:50,546 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:28:50,551 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:28:51,290 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-19 21:28:53,396 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 21:28:55,276 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-19 21:28:58,551 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-19 21:29:00,387 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-19 21:29:00,387 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-19 21:29:07,210 - INFO - LOAD All Tables To DWH-Staging - SUCCESS
+2024-10-19 21:32:14,678 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-19 21:32:14,750 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-19 21:32:14,962 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-19 21:32:15,271 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-19 21:32:15,287 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-19 21:32:15,288 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-19 21:32:15,454 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-19 21:32:15,893 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-19 21:32:16,149 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-19 21:32:16,419 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-19 21:32:16,419 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-19 21:32:16,422 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-19 21:32:16,429 - INFO - [pid 506012] Worker Worker(salt=3801339124, workers=1, host=Erlina, username=istywhyerlina, pid=506012) done      Extract()
+2024-10-19 21:32:16,429 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-19 21:32:16,430 - INFO - Informed scheduler that task   Extract__99914b932b   has status   DONE
+2024-10-19 21:32:16,430 - DEBUG - Asking scheduler for work...
+2024-10-19 21:32:16,430 - DEBUG - Done
+2024-10-19 21:32:16,430 - DEBUG - There are no more tasks to run at this time
+2024-10-19 21:32:16,430 - INFO - Worker Worker(salt=3801339124, workers=1, host=Erlina, username=istywhyerlina, pid=506012) was stopped. Shutting down Keep-Alive thread
+2024-10-19 21:32:16,431 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 1 tasks of which:
+* 1 ran successfully:
+    - 1 Extract()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2024-10-19 21:34:19,874 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-19 21:34:19,935 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-19 21:34:20,127 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-19 21:34:20,424 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-19 21:34:20,440 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-19 21:34:20,442 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-19 21:34:20,596 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-19 21:34:20,987 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-19 21:34:21,208 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-19 21:34:21,451 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-19 21:34:21,451 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-19 21:34:21,452 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-19 21:34:21,458 - INFO - [pid 507438] Worker Worker(salt=3101195655, workers=1, host=Erlina, username=istywhyerlina, pid=507438) done      Extract()
+2024-10-19 21:34:21,458 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-19 21:34:21,459 - INFO - Informed scheduler that task   Extract__99914b932b   has status   DONE
+2024-10-19 21:34:21,459 - DEBUG - Asking scheduler for work...
+2024-10-19 21:34:21,459 - DEBUG - Pending tasks: 1
+2024-10-19 21:34:21,459 - INFO - [pid 507438] Worker Worker(salt=3101195655, workers=1, host=Erlina, username=istywhyerlina, pid=507438) running   Load()
+2024-10-19 21:34:21,459 - INFO - Read Load Query - SUCCESS
+2024-10-19 21:34:22,012 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 21:34:22,023 - INFO - Connect to DWH - SUCCESS
+2024-10-19 21:34:22,083 - INFO - Truncate Olist Schema in DWH - SUCCESS
+2024-10-19 21:34:22,083 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-19 21:34:22,318 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-19 21:34:23,501 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-19 21:34:23,531 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:34:23,535 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 21:34:24,284 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-19 21:34:26,364 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 21:34:28,232 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-19 21:34:31,587 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-19 21:34:33,371 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-19 21:34:33,371 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-19 21:34:39,839 - INFO - LOAD All Tables To DWH-Staging - SUCCESS
+2024-10-19 21:34:39,840 - INFO - ==================================ENDING LOAD DATA=======================================
+2024-10-19 21:34:39,862 - INFO - [pid 507438] Worker Worker(salt=3101195655, workers=1, host=Erlina, username=istywhyerlina, pid=507438) done      Load()
+2024-10-19 21:34:39,862 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-19 21:34:39,862 - INFO - Informed scheduler that task   Load__99914b932b   has status   DONE
+2024-10-19 21:34:39,863 - DEBUG - Asking scheduler for work...
+2024-10-19 21:34:39,863 - DEBUG - Done
+2024-10-19 21:34:39,863 - DEBUG - There are no more tasks to run at this time
+2024-10-19 21:34:39,863 - INFO - Worker Worker(salt=3101195655, workers=1, host=Erlina, username=istywhyerlina, pid=507438) was stopped. Shutting down Keep-Alive thread
+2024-10-19 21:34:39,864 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 2 tasks of which:
+* 2 ran successfully:
+    - 1 Extract()
+    - 1 Load()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2024-10-19 22:04:15,689 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-19 22:04:15,927 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-19 22:04:16,453 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-19 22:04:17,141 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-19 22:04:17,170 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-19 22:04:17,174 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-19 22:04:17,534 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-19 22:04:18,490 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-19 22:04:19,128 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-19 22:04:19,777 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-19 22:04:19,778 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-19 22:04:19,791 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-19 22:04:19,805 - INFO - [pid 3481] Worker Worker(salt=9800286902, workers=1, host=Erlina, username=istywhyerlina, pid=3481) done      Extract()
+2024-10-19 22:04:19,806 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-19 22:04:19,807 - INFO - Informed scheduler that task   Extract__99914b932b   has status   DONE
+2024-10-19 22:04:19,808 - DEBUG - Asking scheduler for work...
+2024-10-19 22:04:19,808 - DEBUG - Pending tasks: 1
+2024-10-19 22:04:19,809 - INFO - [pid 3481] Worker Worker(salt=9800286902, workers=1, host=Erlina, username=istywhyerlina, pid=3481) running   Load()
+2024-10-19 22:04:19,816 - INFO - Read Load Query - SUCCESS
+2024-10-19 22:04:21,087 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 22:04:21,123 - INFO - Connect to DWH - SUCCESS
+2024-10-19 22:04:21,313 - INFO - Truncate Olist Schema in DWH - SUCCESS
+2024-10-19 22:04:21,313 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-19 22:04:21,881 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-19 22:04:24,869 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-19 22:04:24,938 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 22:04:24,946 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 22:04:26,780 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-19 22:04:31,868 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 22:04:36,079 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-19 22:04:43,727 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-19 22:04:48,065 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-19 22:04:48,065 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-19 22:05:04,827 - INFO - LOAD All Tables To DWH-Staging - SUCCESS
+2024-10-19 22:05:04,829 - INFO - ==================================ENDING LOAD DATA=======================================
+2024-10-19 22:05:04,855 - INFO - [pid 3481] Worker Worker(salt=9800286902, workers=1, host=Erlina, username=istywhyerlina, pid=3481) done      Load()
+2024-10-19 22:05:04,856 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-19 22:05:04,856 - INFO - Informed scheduler that task   Load__99914b932b   has status   DONE
+2024-10-19 22:05:04,857 - DEBUG - Asking scheduler for work...
+2024-10-19 22:05:04,857 - DEBUG - Done
+2024-10-19 22:05:04,857 - DEBUG - There are no more tasks to run at this time
+2024-10-19 22:05:04,857 - INFO - Worker Worker(salt=9800286902, workers=1, host=Erlina, username=istywhyerlina, pid=3481) was stopped. Shutting down Keep-Alive thread
+2024-10-19 22:05:04,859 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 2 tasks of which:
+* 2 ran successfully:
+    - 1 Extract()
+    - 1 Load()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2024-10-19 22:12:29,007 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-19 22:12:29,134 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-19 22:12:29,501 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-19 22:12:30,137 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-19 22:12:30,163 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-19 22:12:30,165 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-19 22:12:30,484 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-19 22:12:31,260 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-19 22:12:31,751 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-19 22:12:32,232 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-19 22:12:32,232 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-19 22:12:32,234 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-19 22:12:32,245 - INFO - [pid 8484] Worker Worker(salt=9917129357, workers=1, host=Erlina, username=istywhyerlina, pid=8484) done      Extract()
+2024-10-19 22:12:32,246 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-19 22:12:32,247 - INFO - Informed scheduler that task   Extract__99914b932b   has status   DONE
+2024-10-19 22:12:32,247 - DEBUG - Asking scheduler for work...
+2024-10-19 22:12:32,247 - DEBUG - Pending tasks: 1
+2024-10-19 22:12:32,247 - INFO - [pid 8484] Worker Worker(salt=9917129357, workers=1, host=Erlina, username=istywhyerlina, pid=8484) running   Load()
+2024-10-19 22:12:32,248 - INFO - Read Load Query - SUCCESS
+2024-10-19 22:12:33,353 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 22:12:33,380 - INFO - Connect to DWH - SUCCESS
+2024-10-19 22:12:33,551 - INFO - Truncate Olist Schema in DWH - SUCCESS
+2024-10-19 22:12:33,551 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-19 22:12:34,025 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-19 22:12:36,316 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-19 22:12:36,368 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 22:12:36,374 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 22:12:37,833 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-19 22:12:42,565 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 22:12:46,953 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-19 22:12:54,573 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-19 22:12:58,611 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-19 22:12:58,611 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-19 22:13:13,872 - INFO - LOAD All Tables To DWH-Staging - SUCCESS
+2024-10-19 22:13:13,875 - INFO - ==================================ENDING LOAD DATA=======================================
+2024-10-19 22:13:13,905 - INFO - [pid 8484] Worker Worker(salt=9917129357, workers=1, host=Erlina, username=istywhyerlina, pid=8484) done      Load()
+2024-10-19 22:13:13,906 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-19 22:13:13,907 - INFO - Informed scheduler that task   Load__99914b932b   has status   DONE
+2024-10-19 22:13:13,907 - DEBUG - Asking scheduler for work...
+2024-10-19 22:13:13,908 - DEBUG - Done
+2024-10-19 22:13:13,908 - DEBUG - There are no more tasks to run at this time
+2024-10-19 22:13:13,908 - INFO - Worker Worker(salt=9917129357, workers=1, host=Erlina, username=istywhyerlina, pid=8484) was stopped. Shutting down Keep-Alive thread
+2024-10-19 22:13:13,909 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 2 tasks of which:
+* 2 ran successfully:
+    - 1 Extract()
+    - 1 Load()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2024-10-19 22:36:22,289 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-19 22:36:22,445 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-19 22:36:22,916 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-19 22:36:23,547 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-19 22:36:23,583 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-19 22:36:23,587 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-19 22:36:23,920 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-19 22:36:24,737 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-19 22:36:25,192 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-19 22:36:25,694 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-19 22:36:25,694 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-19 22:36:25,697 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-19 22:36:25,709 - INFO - [pid 21948] Worker Worker(salt=3361840889, workers=1, host=Erlina, username=istywhyerlina, pid=21948) done      Extract()
+2024-10-19 22:36:25,710 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-19 22:36:25,711 - INFO - Informed scheduler that task   Extract__99914b932b   has status   DONE
+2024-10-19 22:36:25,711 - DEBUG - Asking scheduler for work...
+2024-10-19 22:36:25,711 - DEBUG - Pending tasks: 1
+2024-10-19 22:36:25,712 - INFO - [pid 21948] Worker Worker(salt=3361840889, workers=1, host=Erlina, username=istywhyerlina, pid=21948) running   Load()
+2024-10-19 22:36:25,718 - INFO - Read Load Query - SUCCESS
+2024-10-19 22:36:26,941 - INFO - Read Extracted Data - SUCCESS
+2024-10-19 22:36:26,974 - INFO - Connect to DWH - SUCCESS
+2024-10-19 22:36:27,239 - INFO - Truncate Olist Schema in DWH - SUCCESS
+2024-10-19 22:36:27,239 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-19 22:36:27,804 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-19 22:36:30,178 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-19 22:36:30,231 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 22:36:30,238 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-19 22:36:31,778 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-19 22:36:36,668 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-19 22:36:40,849 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-19 22:36:48,026 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-19 22:36:51,901 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-19 22:36:51,901 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-19 22:37:06,654 - INFO - LOAD All Tables To DWH-Staging - SUCCESS
+2024-10-19 22:37:06,656 - INFO - ==================================ENDING LOAD DATA=======================================
+2024-10-19 22:37:06,686 - INFO - [pid 21948] Worker Worker(salt=3361840889, workers=1, host=Erlina, username=istywhyerlina, pid=21948) done      Load()
+2024-10-19 22:37:06,687 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-19 22:37:06,688 - INFO - Informed scheduler that task   Load__99914b932b   has status   DONE
+2024-10-19 22:37:06,688 - DEBUG - Asking scheduler for work...
+2024-10-19 22:37:06,688 - DEBUG - Done
+2024-10-19 22:37:06,688 - DEBUG - There are no more tasks to run at this time
+2024-10-19 22:37:06,688 - INFO - Worker Worker(salt=3361840889, workers=1, host=Erlina, username=istywhyerlina, pid=21948) was stopped. Shutting down Keep-Alive thread
+2024-10-19 22:37:06,689 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 2 tasks of which:
+* 2 ran successfully:
+    - 1 Extract()
+    - 1 Load()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2024-10-20 05:11:41,539 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-20 05:11:41,694 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-20 05:11:42,088 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-20 05:11:42,852 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-20 05:11:42,881 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-20 05:11:42,884 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-20 05:11:43,241 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-20 05:11:44,084 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-20 05:11:44,546 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-20 05:11:45,051 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-20 05:11:45,051 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-20 05:11:45,064 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-20 05:11:45,073 - INFO - [pid 8888] Worker Worker(salt=5121774612, workers=1, host=Erlina, username=istywhyerlina, pid=8888) done      Extract()
+2024-10-20 05:11:45,074 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 05:11:45,075 - INFO - Informed scheduler that task   Extract__99914b932b   has status   DONE
+2024-10-20 05:11:45,075 - DEBUG - Asking scheduler for work...
+2024-10-20 05:11:45,075 - DEBUG - Pending tasks: 1
+2024-10-20 05:11:45,075 - INFO - [pid 8888] Worker Worker(salt=5121774612, workers=1, host=Erlina, username=istywhyerlina, pid=8888) running   Load()
+2024-10-20 05:11:45,081 - INFO - Read Load Query - SUCCESS
+2024-10-20 05:11:46,301 - INFO - Read Extracted Data - SUCCESS
+2024-10-20 05:11:46,328 - INFO - Connect to DWH - SUCCESS
+2024-10-20 05:11:46,475 - INFO - Truncate Olist Schema in DWH - SUCCESS
+2024-10-20 05:11:46,475 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-20 05:11:47,005 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-20 05:11:49,435 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-20 05:11:49,501 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-20 05:11:49,508 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-20 05:11:51,212 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-20 05:11:55,316 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-20 05:11:59,132 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-20 05:12:05,868 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-20 05:12:09,510 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-20 05:12:09,510 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-20 05:12:24,779 - INFO - LOAD All Tables To DWH-Staging - SUCCESS
+2024-10-20 05:12:24,781 - INFO - ==================================ENDING LOAD DATA=======================================
+2024-10-20 05:12:24,808 - INFO - [pid 8888] Worker Worker(salt=5121774612, workers=1, host=Erlina, username=istywhyerlina, pid=8888) done      Load()
+2024-10-20 05:12:24,808 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 05:12:24,809 - INFO - Informed scheduler that task   Load__99914b932b   has status   DONE
+2024-10-20 05:12:24,809 - DEBUG - Asking scheduler for work...
+2024-10-20 05:12:24,809 - DEBUG - Done
+2024-10-20 05:12:24,809 - DEBUG - There are no more tasks to run at this time
+2024-10-20 05:12:24,810 - INFO - Worker Worker(salt=5121774612, workers=1, host=Erlina, username=istywhyerlina, pid=8888) was stopped. Shutting down Keep-Alive thread
+2024-10-20 05:12:24,811 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 2 tasks of which:
+* 2 ran successfully:
+    - 1 Extract()
+    - 1 Load()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2024-10-20 05:36:39,200 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-20 05:36:39,369 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-20 05:36:39,741 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-20 05:36:40,414 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-20 05:36:40,440 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-20 05:36:40,443 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-20 05:36:40,751 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-20 05:36:41,650 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-20 05:36:42,138 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-20 05:36:42,649 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-20 05:36:42,650 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-20 05:36:42,654 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-20 05:36:42,667 - INFO - [pid 23541] Worker Worker(salt=177237394, workers=1, host=Erlina, username=istywhyerlina, pid=23541) done      Extract()
+2024-10-20 05:36:42,668 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 05:36:42,669 - INFO - Informed scheduler that task   Extract__99914b932b   has status   DONE
+2024-10-20 05:36:42,669 - DEBUG - Asking scheduler for work...
+2024-10-20 05:36:42,669 - DEBUG - Pending tasks: 1
+2024-10-20 05:36:42,669 - INFO - [pid 23541] Worker Worker(salt=177237394, workers=1, host=Erlina, username=istywhyerlina, pid=23541) running   Load()
+2024-10-20 05:36:42,677 - INFO - Read Load Query - SUCCESS
+2024-10-20 05:36:43,969 - INFO - Read Extracted Data - SUCCESS
+2024-10-20 05:36:43,998 - INFO - Connect to DWH - SUCCESS
+2024-10-20 05:36:44,175 - INFO - Truncate Olist Schema in DWH - SUCCESS
+2024-10-20 05:36:44,175 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-20 05:36:44,671 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-20 05:36:47,463 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-20 05:36:47,548 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-20 05:36:47,559 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-20 05:36:49,437 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-20 05:36:53,964 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-20 05:36:57,723 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-20 05:37:04,353 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-20 05:37:08,080 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-20 05:37:08,080 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-20 05:37:22,771 - INFO - LOAD All Tables To DWH-Staging - SUCCESS
+2024-10-20 05:37:22,774 - INFO - ==================================ENDING LOAD DATA=======================================
+2024-10-20 05:37:22,804 - INFO - [pid 23541] Worker Worker(salt=177237394, workers=1, host=Erlina, username=istywhyerlina, pid=23541) done      Load()
+2024-10-20 05:37:22,805 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 05:37:22,805 - INFO - Informed scheduler that task   Load__99914b932b   has status   DONE
+2024-10-20 05:37:22,806 - DEBUG - Asking scheduler for work...
+2024-10-20 05:37:22,806 - DEBUG - Done
+2024-10-20 05:37:22,806 - DEBUG - There are no more tasks to run at this time
+2024-10-20 05:37:22,807 - INFO - Worker Worker(salt=177237394, workers=1, host=Erlina, username=istywhyerlina, pid=23541) was stopped. Shutting down Keep-Alive thread
+2024-10-20 05:37:22,808 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 2 tasks of which:
+* 2 ran successfully:
+    - 1 Extract()
+    - 1 Load()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2024-10-20 05:51:18,760 - INFO - Read Transform Query - SUCCESS
+2024-10-20 05:51:18,808 - INFO - Connect to DWH - SUCCESS
+2024-10-20 05:51:18,808 - INFO - ==================================STARTING TRANSFROM DATA=======================================
+2024-10-20 05:51:18,808 - ERROR - Transform to All Dimensions and Fact Tables - FAILED
+2024-10-20 05:51:18,813 - ERROR - Transform Tables - FAILED
+2024-10-20 05:52:18,902 - INFO - Read Transform Query - SUCCESS
+2024-10-20 05:52:18,942 - INFO - Connect to DWH - SUCCESS
+2024-10-20 05:52:18,942 - INFO - ==================================STARTING TRANSFROM DATA=======================================
+2024-10-20 05:52:19,519 - INFO - Transform to 'final.dim_customers' - SUCCESS
+2024-10-20 05:52:20,175 - INFO - Transform to 'final.dim_payment' - SUCCESS
+2024-10-20 05:52:20,350 - INFO - Transform to 'final.dim_product' - SUCCESS
+2024-10-20 05:52:20,351 - ERROR - Transform to All Dimensions and Fact Tables - FAILED
+2024-10-20 05:52:20,355 - ERROR - Transform Tables - FAILED
+2024-10-20 05:53:01,008 - INFO - Read Transform Query - SUCCESS
+2024-10-20 05:53:01,043 - INFO - Connect to DWH - SUCCESS
+2024-10-20 05:53:01,043 - INFO - ==================================STARTING TRANSFROM DATA=======================================
+2024-10-20 05:53:01,656 - INFO - Transform to 'final.dim_customers' - SUCCESS
+2024-10-20 05:53:02,318 - INFO - Transform to 'final.dim_payment' - SUCCESS
+2024-10-20 05:53:02,499 - INFO - Transform to 'final.dim_product' - SUCCESS
+2024-10-20 05:53:02,515 - INFO - Transform to 'final.dim_seller' - SUCCESS
+2024-10-20 05:53:12,020 - INFO - Transform to 'final.fct_transaction' - SUCCESS
+2024-10-20 05:53:12,030 - INFO - Transform to All Dimensions and Fact Tables - SUCCESS
+2024-10-20 05:53:12,064 - INFO - ==================================ENDING TRANSFROM DATA=======================================
+2024-10-20 05:55:16,155 - INFO - Read Transform Query - SUCCESS
+2024-10-20 05:55:16,223 - INFO - Connect to DWH - SUCCESS
+2024-10-20 05:55:16,223 - INFO - ==================================STARTING TRANSFROM DATA=======================================
+2024-10-20 05:55:16,827 - INFO - Transform to 'final.dim_customers' - SUCCESS
+2024-10-20 05:55:17,493 - INFO - Transform to 'final.dim_payment' - SUCCESS
+2024-10-20 05:55:17,705 - INFO - Transform to 'final.dim_product' - SUCCESS
+2024-10-20 05:55:17,721 - INFO - Transform to 'final.dim_seller' - SUCCESS
+2024-10-20 05:55:27,288 - INFO - Transform to 'final.fct_transaction' - SUCCESS
+2024-10-20 05:55:27,292 - INFO - Transform to All Dimensions and Fact Tables - SUCCESS
+2024-10-20 05:55:27,295 - INFO - ==================================ENDING TRANSFROM DATA=======================================
+2024-10-20 05:55:27,296 - INFO - [pid 34593] Worker Worker(salt=6165406263, workers=1, host=Erlina, username=istywhyerlina, pid=34593) done      Transform()
+2024-10-20 05:55:27,297 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 05:55:27,298 - INFO - Informed scheduler that task   Transform__99914b932b   has status   DONE
+2024-10-20 05:55:27,299 - DEBUG - Asking scheduler for work...
+2024-10-20 05:55:27,299 - DEBUG - Done
+2024-10-20 05:55:27,299 - DEBUG - There are no more tasks to run at this time
+2024-10-20 05:55:27,299 - INFO - Worker Worker(salt=6165406263, workers=1, host=Erlina, username=istywhyerlina, pid=34593) was stopped. Shutting down Keep-Alive thread
+2024-10-20 05:55:27,300 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 2 tasks of which:
+* 1 complete ones were encountered:
+    - 1 Load()
+* 1 ran successfully:
+    - 1 Transform()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2024-10-20 05:55:56,528 - INFO - Read Transform Query - SUCCESS
+2024-10-20 05:55:56,590 - INFO - Connect to DWH - SUCCESS
+2024-10-20 05:55:56,590 - INFO - ==================================STARTING TRANSFROM DATA=======================================
+2024-10-20 05:55:57,171 - INFO - Transform to 'final.dim_customers' - SUCCESS
+2024-10-20 05:55:57,850 - INFO - Transform to 'final.dim_payment' - SUCCESS
+2024-10-20 05:55:58,017 - INFO - Transform to 'final.dim_product' - SUCCESS
+2024-10-20 05:55:58,031 - INFO - Transform to 'final.dim_seller' - SUCCESS
+2024-10-20 05:56:07,477 - INFO - Transform to 'final.fct_transaction' - SUCCESS
+2024-10-20 05:56:07,481 - INFO - Transform to All Dimensions and Fact Tables - SUCCESS
+2024-10-20 05:56:07,484 - INFO - ==================================ENDING TRANSFROM DATA=======================================
+2024-10-20 05:56:07,484 - INFO - [pid 35020] Worker Worker(salt=4831457357, workers=1, host=Erlina, username=istywhyerlina, pid=35020) done      Transform()
+2024-10-20 05:56:07,485 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 05:56:07,486 - INFO - Informed scheduler that task   Transform__99914b932b   has status   DONE
+2024-10-20 05:56:07,486 - DEBUG - Asking scheduler for work...
+2024-10-20 05:56:07,486 - DEBUG - Done
+2024-10-20 05:56:07,486 - DEBUG - There are no more tasks to run at this time
+2024-10-20 05:56:07,486 - INFO - Worker Worker(salt=4831457357, workers=1, host=Erlina, username=istywhyerlina, pid=35020) was stopped. Shutting down Keep-Alive thread
+2024-10-20 05:56:07,487 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 2 tasks of which:
+* 1 complete ones were encountered:
+    - 1 Load()
+* 1 ran successfully:
+    - 1 Transform()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2024-10-20 05:57:38,252 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-20 05:57:38,365 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-20 05:57:38,746 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-20 05:57:39,343 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-20 05:57:39,369 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-20 05:57:39,372 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-20 05:57:39,698 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-20 05:57:40,540 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-20 05:57:41,007 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-20 05:57:41,519 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-20 05:57:41,519 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-20 05:57:41,521 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-20 05:57:41,530 - INFO - [pid 36673] Worker Worker(salt=9939378934, workers=1, host=Erlina, username=istywhyerlina, pid=36673) done      Extract()
+2024-10-20 05:57:41,531 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 05:57:41,532 - INFO - Informed scheduler that task   Extract__99914b932b   has status   DONE
+2024-10-20 05:57:41,532 - DEBUG - Asking scheduler for work...
+2024-10-20 05:57:41,532 - DEBUG - Pending tasks: 2
+2024-10-20 05:57:41,532 - INFO - [pid 36673] Worker Worker(salt=9939378934, workers=1, host=Erlina, username=istywhyerlina, pid=36673) running   Load()
+2024-10-20 05:57:41,533 - INFO - Read Load Query - SUCCESS
+2024-10-20 05:57:42,740 - INFO - Read Extracted Data - SUCCESS
+2024-10-20 05:57:42,775 - INFO - Connect to DWH - SUCCESS
+2024-10-20 05:57:42,985 - INFO - Truncate Olist Schema in DWH - SUCCESS
+2024-10-20 05:57:42,985 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-20 05:57:43,544 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-20 05:57:46,132 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-20 05:57:46,189 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-20 05:57:46,195 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-20 05:57:47,772 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-20 05:57:52,424 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-20 05:57:56,353 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-20 05:58:03,312 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-20 05:58:07,097 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-20 05:58:07,097 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-20 05:58:21,214 - INFO - LOAD All Tables To DWH-Staging - SUCCESS
+2024-10-20 05:58:21,216 - INFO - ==================================ENDING LOAD DATA=======================================
+2024-10-20 05:58:21,242 - INFO - [pid 36673] Worker Worker(salt=9939378934, workers=1, host=Erlina, username=istywhyerlina, pid=36673) done      Load()
+2024-10-20 05:58:21,243 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 05:58:21,244 - INFO - Informed scheduler that task   Load__99914b932b   has status   DONE
+2024-10-20 05:58:21,244 - DEBUG - Asking scheduler for work...
+2024-10-20 05:58:21,244 - DEBUG - Pending tasks: 1
+2024-10-20 05:58:21,244 - INFO - [pid 36673] Worker Worker(salt=9939378934, workers=1, host=Erlina, username=istywhyerlina, pid=36673) running   Transform()
+2024-10-20 05:58:21,245 - INFO - Read Transform Query - SUCCESS
+2024-10-20 05:58:21,246 - INFO - Connect to DWH - SUCCESS
+2024-10-20 05:58:21,246 - INFO - ==================================STARTING TRANSFROM DATA=======================================
+2024-10-20 05:58:22,016 - INFO - Transform to 'final.dim_customers' - SUCCESS
+2024-10-20 05:58:23,128 - INFO - Transform to 'final.dim_payment' - SUCCESS
+2024-10-20 05:58:23,318 - INFO - Transform to 'final.dim_product' - SUCCESS
+2024-10-20 05:58:23,336 - INFO - Transform to 'final.dim_seller' - SUCCESS
+2024-10-20 05:58:36,415 - INFO - Transform to 'final.fct_transaction' - SUCCESS
+2024-10-20 05:58:36,418 - INFO - Transform to All Dimensions and Fact Tables - SUCCESS
+2024-10-20 05:58:36,420 - INFO - ==================================ENDING TRANSFROM DATA=======================================
+2024-10-20 05:58:36,420 - INFO - [pid 36673] Worker Worker(salt=9939378934, workers=1, host=Erlina, username=istywhyerlina, pid=36673) done      Transform()
+2024-10-20 05:58:36,420 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 05:58:36,421 - INFO - Informed scheduler that task   Transform__99914b932b   has status   DONE
+2024-10-20 05:58:36,421 - DEBUG - Asking scheduler for work...
+2024-10-20 05:58:36,422 - DEBUG - Done
+2024-10-20 05:58:36,422 - DEBUG - There are no more tasks to run at this time
+2024-10-20 05:58:36,422 - INFO - Worker Worker(salt=9939378934, workers=1, host=Erlina, username=istywhyerlina, pid=36673) was stopped. Shutting down Keep-Alive thread
+2024-10-20 05:58:36,423 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 3 tasks of which:
+* 3 ran successfully:
+    - 1 Extract()
+    - 1 Load()
+    - 1 Transform()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+2024-10-20 08:20:58,932 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-20 08:20:59,135 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-20 08:20:59,569 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-20 08:21:00,195 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-20 08:21:00,224 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-20 08:21:00,229 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-20 08:21:00,556 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-20 08:21:01,455 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-20 08:21:01,976 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-20 08:21:02,518 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-20 08:21:02,518 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-20 08:21:02,541 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-20 08:21:02,554 - INFO - [pid 27574] Worker Worker(salt=4202852093, workers=1, host=Erlina, username=istywhyerlina, pid=27574) done      Extract()
+2024-10-20 08:21:02,555 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 08:21:02,556 - INFO - Informed scheduler that task   Extract__99914b932b   has status   DONE
+2024-10-20 08:21:02,556 - DEBUG - Asking scheduler for work...
+2024-10-20 08:21:02,556 - DEBUG - Pending tasks: 2
+2024-10-20 08:21:02,557 - INFO - [pid 27574] Worker Worker(salt=4202852093, workers=1, host=Erlina, username=istywhyerlina, pid=27574) running   Load()
+2024-10-20 08:21:02,565 - INFO - Read Load Query - SUCCESS
+2024-10-20 08:21:03,781 - INFO - Read Extracted Data - SUCCESS
+2024-10-20 08:21:03,830 - INFO - Connect to DWH - SUCCESS
+2024-10-20 08:21:04,042 - INFO - Truncate Olist Schema in DWH - SUCCESS
+2024-10-20 08:21:04,042 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-20 08:21:04,582 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-20 08:21:07,181 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-20 08:21:07,239 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-20 08:21:07,245 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-20 08:21:08,817 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-20 08:21:13,321 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-20 08:21:17,563 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-20 08:21:25,283 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-20 08:21:29,388 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-20 08:21:29,388 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-20 08:21:44,706 - INFO - LOAD All Tables To DWH-Staging - SUCCESS
+2024-10-20 08:21:44,708 - INFO - ==================================ENDING LOAD DATA=======================================
+2024-10-20 08:21:44,737 - INFO - [pid 27574] Worker Worker(salt=4202852093, workers=1, host=Erlina, username=istywhyerlina, pid=27574) done      Load()
+2024-10-20 08:21:44,738 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 08:21:44,738 - INFO - Informed scheduler that task   Load__99914b932b   has status   DONE
+2024-10-20 08:21:44,739 - DEBUG - Asking scheduler for work...
+2024-10-20 08:21:44,739 - DEBUG - Pending tasks: 1
+2024-10-20 08:21:44,739 - INFO - [pid 27574] Worker Worker(salt=4202852093, workers=1, host=Erlina, username=istywhyerlina, pid=27574) running   Transform()
+2024-10-20 08:21:44,743 - INFO - Read Transform Query - SUCCESS
+2024-10-20 08:21:44,744 - INFO - Connect to DWH - SUCCESS
+2024-10-20 08:21:44,744 - INFO - ==================================STARTING TRANSFROM DATA=======================================
+2024-10-20 08:21:45,483 - INFO - Transform to 'final.dim_customers' - SUCCESS
+2024-10-20 08:21:46,579 - INFO - Transform to 'final.dim_payment' - SUCCESS
+2024-10-20 08:21:46,806 - INFO - Transform to 'final.dim_product' - SUCCESS
+2024-10-20 08:21:46,822 - INFO - Transform to 'final.dim_seller' - SUCCESS
+2024-10-20 08:22:00,726 - INFO - Transform to 'final.fct_transaction' - SUCCESS
+2024-10-20 08:22:00,730 - INFO - Transform to All Dimensions and Fact Tables - SUCCESS
+2024-10-20 08:22:00,731 - INFO - ==================================ENDING TRANSFROM DATA=======================================
+2024-10-20 08:22:00,732 - INFO - [pid 27574] Worker Worker(salt=4202852093, workers=1, host=Erlina, username=istywhyerlina, pid=27574) done      Transform()
+2024-10-20 08:22:00,732 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 08:22:00,733 - INFO - Informed scheduler that task   Transform__99914b932b   has status   DONE
+2024-10-20 08:22:00,733 - DEBUG - Asking scheduler for work...
+2024-10-20 08:22:00,733 - DEBUG - Done
+2024-10-20 08:22:00,733 - DEBUG - There are no more tasks to run at this time
+2024-10-20 08:22:00,733 - INFO - Worker Worker(salt=4202852093, workers=1, host=Erlina, username=istywhyerlina, pid=27574) was stopped. Shutting down Keep-Alive thread
+2024-10-20 08:22:00,735 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 3 tasks of which:
+* 3 ran successfully:
+    - 1 Extract()
+    - 1 Load()
+    - 1 Transform()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
+Traceback (most recent call last):
+  File "/home/istywhyerlina/datastorage/week3/pipeline/transform.py", line 1, in <module>
+    import luigi
+ModuleNotFoundError: No module named 'luigi'
+Traceback (most recent call last):
+  File "/home/istywhyerlina/datastorage/week3/pipeline/transform.py", line 1, in <module>
+    import luigi
+ModuleNotFoundError: No module named 'luigi'
+Traceback (most recent call last):
+  File "/home/istywhyerlina/datastorage/week3/pipeline/transform.py", line 1, in <module>
+    import luigi
+ModuleNotFoundError: No module named 'luigi'
+Traceback (most recent call last):
+  File "/home/istywhyerlina/datastorage/week3/pipeline/transform.py", line 1, in <module>
+    import luigi
+ModuleNotFoundError: No module named 'luigi'
+2024-10-20 09:29:33,103 - INFO - ==================================STARTING EXTRACT DATA=======================================
+2024-10-20 09:29:33,230 - INFO - EXTRACT 'public.geolocation' - SUCCESS.
+2024-10-20 09:29:33,606 - INFO - EXTRACT 'public.customers' - SUCCESS.
+2024-10-20 09:29:34,223 - INFO - EXTRACT 'public.orders' - SUCCESS.
+2024-10-20 09:29:34,250 - INFO - EXTRACT 'public.sellers' - SUCCESS.
+2024-10-20 09:29:34,255 - INFO - EXTRACT 'public.product_category_name_translation' - SUCCESS.
+2024-10-20 09:29:34,589 - INFO - EXTRACT 'public.products' - SUCCESS.
+2024-10-20 09:29:35,404 - INFO - EXTRACT 'public.order_items' - SUCCESS.
+2024-10-20 09:29:35,867 - INFO - EXTRACT 'public.order_payments' - SUCCESS.
+2024-10-20 09:29:36,331 - INFO - EXTRACT 'public.order_reviews' - SUCCESS.
+2024-10-20 09:29:36,331 - INFO - Extract All Tables From Sources - SUCCESS
+2024-10-20 09:29:36,332 - INFO - ==================================ENDING EXTRACT DATA=======================================
+2024-10-20 09:29:36,341 - INFO - [pid 77835] Worker Worker(salt=2249807270, workers=1, host=Erlina, username=istywhyerlina, pid=77835) done      Extract()
+2024-10-20 09:29:36,342 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 09:29:36,343 - INFO - Informed scheduler that task   Extract__99914b932b   has status   DONE
+2024-10-20 09:29:36,343 - DEBUG - Asking scheduler for work...
+2024-10-20 09:29:36,343 - DEBUG - Pending tasks: 2
+2024-10-20 09:29:36,343 - INFO - [pid 77835] Worker Worker(salt=2249807270, workers=1, host=Erlina, username=istywhyerlina, pid=77835) running   Load()
+2024-10-20 09:29:36,344 - INFO - Read Load Query - SUCCESS
+2024-10-20 09:29:37,549 - INFO - Read Extracted Data - SUCCESS
+2024-10-20 09:29:37,584 - INFO - Connect to DWH - SUCCESS
+2024-10-20 09:29:37,764 - INFO - Truncate Olist Schema in DWH - SUCCESS
+2024-10-20 09:29:37,765 - INFO - ==================================STARTING LOAD DATA=======================================
+2024-10-20 09:29:38,307 - INFO - LOAD 'olist_geolocation' - SUCCESS
+2024-10-20 09:29:41,141 - INFO - LOAD 'olist.customers' - SUCCESS
+2024-10-20 09:29:41,212 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-20 09:29:41,221 - INFO - LOAD 'olist.sellers' - SUCCESS
+2024-10-20 09:29:42,980 - INFO - LOAD 'olist.products' - SUCCESS
+2024-10-20 09:29:47,860 - INFO - LOAD 'olist.orders' - SUCCESS
+2024-10-20 09:29:52,780 - INFO - LOAD 'olist.order_reviews' - SUCCESS
+2024-10-20 09:30:00,563 - INFO - LOAD 'olist.order_items' - SUCCESS
+2024-10-20 09:30:04,786 - INFO - LOAD 'olist.order_payments' - SUCCESS
+2024-10-20 09:30:04,786 - INFO - LOAD All Tables To DWH-Olist - SUCCESS
+2024-10-20 09:30:19,856 - INFO - LOAD All Tables To DWH-Staging - SUCCESS
+2024-10-20 09:30:19,858 - INFO - ==================================ENDING LOAD DATA=======================================
+2024-10-20 09:30:19,890 - INFO - [pid 77835] Worker Worker(salt=2249807270, workers=1, host=Erlina, username=istywhyerlina, pid=77835) done      Load()
+2024-10-20 09:30:19,891 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 09:30:19,891 - INFO - Informed scheduler that task   Load__99914b932b   has status   DONE
+2024-10-20 09:30:19,892 - DEBUG - Asking scheduler for work...
+2024-10-20 09:30:19,892 - DEBUG - Pending tasks: 1
+2024-10-20 09:30:19,892 - INFO - [pid 77835] Worker Worker(salt=2249807270, workers=1, host=Erlina, username=istywhyerlina, pid=77835) running   Transform()
+2024-10-20 09:30:19,893 - INFO - Read Transform Query - SUCCESS
+2024-10-20 09:30:19,894 - INFO - Connect to DWH - SUCCESS
+2024-10-20 09:30:19,894 - INFO - ==================================STARTING TRANSFROM DATA=======================================
+2024-10-20 09:30:20,695 - INFO - Transform to 'final.dim_customers' - SUCCESS
+2024-10-20 09:30:21,895 - INFO - Transform to 'final.dim_payment' - SUCCESS
+2024-10-20 09:30:22,105 - INFO - Transform to 'final.dim_product' - SUCCESS
+2024-10-20 09:30:22,126 - INFO - Transform to 'final.dim_seller' - SUCCESS
+2024-10-20 09:30:36,114 - INFO - Transform to 'final.fct_transaction' - SUCCESS
+2024-10-20 09:30:36,117 - INFO - Transform to All Dimensions and Fact Tables - SUCCESS
+2024-10-20 09:30:36,119 - INFO - ==================================ENDING TRANSFROM DATA=======================================
+2024-10-20 09:30:36,119 - INFO - [pid 77835] Worker Worker(salt=2249807270, workers=1, host=Erlina, username=istywhyerlina, pid=77835) done      Transform()
+2024-10-20 09:30:36,119 - DEBUG - 1 running tasks, waiting for next task to finish
+2024-10-20 09:30:36,120 - INFO - Informed scheduler that task   Transform__99914b932b   has status   DONE
+2024-10-20 09:30:36,120 - DEBUG - Asking scheduler for work...
+2024-10-20 09:30:36,120 - DEBUG - Done
+2024-10-20 09:30:36,121 - DEBUG - There are no more tasks to run at this time
+2024-10-20 09:30:36,121 - INFO - Worker Worker(salt=2249807270, workers=1, host=Erlina, username=istywhyerlina, pid=77835) was stopped. Shutting down Keep-Alive thread
+2024-10-20 09:30:36,123 - INFO - 
+===== Luigi Execution Summary =====
+
+Scheduled 3 tasks of which:
+* 3 ran successfully:
+    - 1 Extract()
+    - 1 Load()
+    - 1 Transform()
+
+This progress looks :) because there were no failed tasks or missing dependencies
+
+===== Luigi Execution Summary =====
+
